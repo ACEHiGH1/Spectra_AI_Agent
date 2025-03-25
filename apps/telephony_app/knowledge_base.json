@@ -1,0 +1,94 @@
+{
+    "company_info": {
+        "name": "Spectra",
+        "description": "A technology solutions partner dedicated to helping businesses thrive in the digital landscape.",
+        "values": [
+            "Cutting-edge technology with creative innovation",
+            "Transparent communication",
+            "Collaborative approach",
+            "Long-term commitment to client success"
+        ]
+    },
+    "services": [
+        {
+            "name": "Website Development and Maintenance",
+            "description": "Custom, results-driven websites with ongoing support for a seamless digital presence",
+            "features": [
+                "Custom website development",
+                "Speed optimization",
+                "User experience enhancement",
+                "Ongoing maintenance and support"
+            ],
+            "keywords": ["website", "web development", "web design", "maintenance", "support"]
+        },
+        {
+            "name": "AI and Automation Solutions",
+            "description": "Harness the power of artificial intelligence and streamline operations",
+            "features": [
+                "Process automation",
+                "AI integration",
+                "Workflow optimization",
+                "Smart solutions"
+            ],
+            "keywords": ["AI", "automation", "artificial intelligence", "streamline", "optimize"]
+        },
+        {
+            "name": "Branding and Design",
+            "description": "Build a compelling brand identity that resonates with target audiences",
+            "features": [
+                "Brand strategy",
+                "Visual identity",
+                "Logo design",
+                "Brand guidelines"
+            ],
+            "keywords": ["branding", "design", "logo", "identity", "visual"]
+        },
+        {
+            "name": "Digital Marketing and SEO",
+            "description": "Boost online visibility and drive qualified traffic with data-driven strategies",
+            "features": [
+                "SEO optimization",
+                "Content marketing",
+                "Social media management",
+                "Analytics and reporting"
+            ],
+            "keywords": ["marketing", "SEO", "digital marketing", "traffic", "visibility"]
+        },
+        {
+            "name": "Business Consulting and Management",
+            "description": "Optimize operations and accelerate growth in the digital realm",
+            "features": [
+                "Business strategy",
+                "Digital transformation",
+                "Process optimization",
+                "Growth consulting"
+            ],
+            "keywords": ["consulting", "management", "strategy", "growth", "optimization"]
+        },
+        {
+            "name": "Cloud, DevOps, and Mobile Solutions",
+            "description": "Provide scalable infrastructure and mobile applications that reach customers everywhere",
+            "features": [
+                "Cloud infrastructure",
+                "DevOps implementation",
+                "Mobile app development",
+                "Scalable solutions"
+            ],
+            "keywords": ["cloud", "devops", "mobile", "infrastructure", "apps"]
+        }
+    ],
+    "faqs": [
+        {
+            "question": "What services do you offer?",
+            "answer": "We offer comprehensive tech solutions including Website Development, AI and Automation, Branding and Design, Digital Marketing and SEO, Business Consulting, and Cloud/DevOps/Mobile Solutions."
+        },
+        {
+            "question": "How do you approach new projects?",
+            "answer": "We believe in transparent communication and a collaborative approach. We start by understanding your unique challenges, then recommend tailored solutions based on our expertise and your specific needs."
+        },
+        {
+            "question": "Do you provide ongoing support?",
+            "answer": "Yes, we offer ongoing support and maintenance to ensure lasting success. Our team is committed to your long-term growth and success."
+        }
+    ]
+} 
